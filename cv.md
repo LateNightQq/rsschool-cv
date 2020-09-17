@@ -1,3 +1,5 @@
+![](https://media.giphy.com/media/eGqsWu5sjV1V6/giphy.gif)
+
 # Hi, I'm Petr!
 
 ## Contacts

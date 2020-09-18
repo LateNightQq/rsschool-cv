@@ -1,1 +1,1 @@
-https://LateNightQq/.github.io/rsschool-cv/cv
+https://LateNightQq.github.io/rsschool-cv/cv

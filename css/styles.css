@@ -1,0 +1,178 @@
+/*Colors:
+#305b95;
+#0f2650;
+#adbfc9;
+#e18d69;
+#ecdfd9;
+
+font-family: 'Yellowtail', cursive;
+font-family: 'Sue Ellen Francisco', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Merriweather', serif;
+*/
+
+a {
+  color: #305b95;
+  font-family: 'Merriweather', serif;
+}
+a:hover {
+  color: #0f2650;
+}
+
+body {
+  font-family: 'Merriweather', serif;
+  margin: 0 auto;
+  text-align: center;
+  width: 1000px;
+}
+
+h1 {
+  color: #e18d69;
+  font-family: 'Yellowtail', cursive;
+  font-size: 4rem;
+  line-height: 1;
+  margin: 0 auto ;
+  padding: 110px 0 0 0;
+  position: relative;
+}
+
+h2 {
+  color: #305b95;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  margin-top: 50px;
+}
+
+hr {
+  border: dotted #b09f70 6px;
+  border-bottom: none;
+  width: 4%;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+p {
+  line-height: 2;
+  margin: 10px 0;
+}
+
+/*Classes*/
+
+.about {
+  font-family: 'Sue Ellen Francisco', cursive;
+  font-size: 2rem;
+  width: 70%;
+  margin: 0 auto 0 auto;
+  line-height: 1.5;
+}
+
+.book-gif {
+  margin: 0 250px 0 250px ;
+  display: block;
+  width: 200px;
+  position: absolute;
+}
+
+.bottom-container {
+  background-image: url(../img/bottomImg.jpg);
+  background-size: cover;
+  height: 80px;
+}
+
+.coding-cat {
+  border-radius: 150px;
+  float: right;
+  margin-left: 50px;
+  width: 40%;
+}
+
+.copyright {
+  color: #305b95;
+  font-size: 1.25rem;
+  padding-top: 20px;
+  font-family: 'Yellowtail', cursive;
+}
+
+.dev {
+  color: #305b95;
+  font-weight: normal;
+  margin: 0 auto 10px auto;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.eduAndLang-box {
+  line-height: 1.5;
+  margin: 30px auto 0 auto;
+  text-align: left;
+  width: 70%;
+  height: 200px;
+}
+
+.edu-list {
+  width: 20%;
+  position: absolute;
+  margin-top: 50px;
+}
+
+.lang-box {
+  width: 30%;
+  float: right;
+  margin-top: 50px;
+  margin-right: 10px;
+}
+
+.middle-container {
+  display: inline-block;
+  margin: 0;
+  position: relative;
+  width: 1000px;
+}
+
+.profile-box {
+  line-height: 1.5;
+  margin: 40px auto 50px auto;
+  text-align: left;
+  width: 50%;
+  height: 200px;
+}
+
+.profile-list {
+  list-style-type: none;
+  width: 50%;
+  float: right;
+  margin: 20px 0;
+  font-size: 1rem;
+  line-height: 2rem;
+}
+
+.profile-photo {
+  position: absolute;
+  width: 200px;
+  margin-right: 250px;
+}
+
+.skills {
+  margin-bottom: 80px;
+}
+
+.skill-box {
+  margin: 30px auto 70px auto;
+  text-align: center;
+  width: 50%;
+}
+
+.skill-list {
+  padding-top: 10px;
+  padding-left: 0;
+  list-style-type: none;
+  line-height: 2rem;
+}
+
+.top-container {
+  background-image: url(../img/topImg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 200px;
+  margin: 0;
+  position: relative;
+}
